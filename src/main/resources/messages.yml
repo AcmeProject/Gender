@@ -1,7 +1,7 @@
 helpMessage: "&4-&6-&e-&2-&1-&9-&5- &c&lGender &4-&6-&e-&2-&1-&9-&5-\n&c/gender <list/gui> &7Displays all the genders\n&c/gender info <GENDER> &7Shows info about the gender\n&c/gender set <GENDER> &7Sets your own gender\n&c/gender check <PLAYER> &7Checks the players gender\n&4-&6-&e-&2-&1-&9-&5-&4-&6-&e-&2-&1-&9-&5-&4-&6-&e-&2-&1-&9-&5-"
 genderDesc: "&a%s :&b %s"
 noGender: "&c%s gender does not exist!"
-checkGender: "&a%s identify as %s"
+checkGender: "&a%s identifies as %s"
 noSetGenderPerm: "You don't have permission to set %s"
 genderSetSuccess: "&aYou now identify as &b %s"
 guiName: "&5Genders &9(&4{SIZE}&9)"
